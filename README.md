@@ -237,3 +237,6 @@ This repository serves as the official landing page for PyKaraoke. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PyKaraoke today!**
+
+---
+**Last updated:** 2026-09-10 22:23:43 UTC
