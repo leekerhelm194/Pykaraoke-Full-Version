@@ -239,4 +239,4 @@ This repository serves as the official landing page for PyKaraoke. The software 
 **Get the most recent version of PyKaraoke today!**
 
 ---
-**Last updated:** 2026-09-21 06:03:19 UTC
+**Last updated:** 2026-09-21 13:49:42 UTC
